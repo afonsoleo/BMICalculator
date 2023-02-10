@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="message_underWeight">ABAIXO DO PESO</string>
+    <string name="message_normal">NORMAL</string>
+    <string name="message_overWeight">SOBREPESO</string>
+    <string name="message_obesity">OBESIDADE</string>
+    <string name="message_severeObesity">OBESIDADE GRAVE</string>
+    <string name="message_type_weight">Digite seu peso</string>
+    <string name="message_type_height">Digite sua altura</string>
+    <string name="button_calculate">Calcular</string>
+    <string name="message_your_imc_is">Seu IMC é:</string>
+    <string name="bmi_calculator">Calculadora IMC</string>
+    <string name="msg_subtitle">Preencha os campos com peso e altura para descubrir o Índice de Massa Corporal.</string>
+    <string name="msg_classification">A classificação do seu IMC é:</string>
+    <string name="message_classification">Confira abaixo o resultado do IMC e a classificação:</string>
+</resources>
