@@ -5,7 +5,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/01.png" width="260">&emsp;<img src="/result/02.png" width="260">&emsp;<img src="/result/03.png" width="260">&emsp;<img src="/result/05.png" width="260">
+<img src="/result/06.png" width="240">&emsp;<img src="/result/07.png" width="240">&emsp;<img src="/result/08.png" width="240">&emsp;<img src="/result/05.png" width="240">
 
 ## Tecnologias
 * Kotlin
