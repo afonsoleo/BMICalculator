@@ -27,6 +27,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 ### TODO
 - Melhorar estilização do app
+- Adicionar novos recursos UI como sliders e progress bar
 
 ## Author
 Leonardo Afonso (follow me on [LinkedIn](https://www.linkedin.com/in/leonardo-afonso-556a39261/))
